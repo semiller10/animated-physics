@@ -6,5 +6,6 @@ An interesting physics trick that you can perform at home is presented in a
 I have modeled this experiment in friction-trick.py and invite you to play around with the parameterization.
 
 The distance of the supports from the center of gravity is independent of angle (given the constant velocities as used in the model).
+
 ![Friction trick](https://semiller10.github.io/images/animated-physics/friction-trick-0degrees.gif)
 ![Friction trick](https://semiller10.github.io/images/animated-physics/friction-trick-neg15degrees.gif)
