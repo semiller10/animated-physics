@@ -5,5 +5,5 @@ An interesting physics trick that you can perform at home is presented in a
 
 I have modeled this experiment in friction-trick.py and invite you to play around with the parameterization.
 
-Here I have modeled fingers sliding up a meter stick oriented at -15 degrees to the horizontal.
+Here I have modeled fingers sliding along a meter stick oriented at -15 degrees.
 ![Friction trick](https://semiller10.github.io/images/animated-physics/friction-trick.gif)
